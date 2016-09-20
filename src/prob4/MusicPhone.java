@@ -1,6 +1,6 @@
 package prob4;
 
-public class MusicPhone extends Phone {
+public class MusicPhone extends Phone { //건들지 말아라!!
 	
 	@Override
 	public void execute ( String function ) {

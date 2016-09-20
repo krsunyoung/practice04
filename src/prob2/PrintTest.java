@@ -9,5 +9,6 @@ public class PrintTest {
 		printer.println( true );
 		printer.println( 5.7 );
 		printer.println( "홍길동" );
+		//println(..) 추후에 작업
 	}
 }

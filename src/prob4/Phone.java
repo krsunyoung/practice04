@@ -1,6 +1,6 @@
 package prob4;
 
-public class Phone {
+public class Phone { //건들지 말아라!!
 	
 	public void execute( String function ) {
 		call();
